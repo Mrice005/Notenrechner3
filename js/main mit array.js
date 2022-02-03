@@ -34,7 +34,7 @@ function tfAuslesen() {
 
 function eingabeUeberpruefen(punkte) {
     if (isNaN(punkte)) {
-        console.log("Keine Zahl"); //gibt ,,Keine zahl" aus, wenn keine Zahl in die Feld eingetragen wird
+        console.log("Keine Zahl"); //gibt ,,Keine zahl" aus, wenn keine Zahl in die Felder eingetragen wird
     }
     else
     {
